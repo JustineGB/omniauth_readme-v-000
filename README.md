@@ -1,4 +1,4 @@
-gem install bundler -v 1.16.1 # OmniAuth
+# OmniAuth
 
 ## Objectives
 1. Describe the problem of authentication and how OmniAuth solves it.
